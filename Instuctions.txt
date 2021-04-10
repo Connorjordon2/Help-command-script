@@ -1,0 +1,28 @@
+Hello their,
+I hope you enjoy this script as it well do some amazing things
+ 
+ok....
+
+Lets get some stuff out of the way
+
+1.I dont want you distrubting my product 
+2.I dont want you to act like you built this script
+
+ok.... 
+Now that thats out of the way we can get some stuff done
+
+1.drag the help folder into the resources folder gta-fivem>>>server root>>>resources>>>>>drag and drop the folder into their if you have a certian directory you can put it in their
+2.go to server.cfg and type start help or whatever the resource name is 
+3.if you are homehosting the server type ensure 
+4.Make sure that you have put it on a clean line
+
+#commands
+/help ingame to use the command
+
+#permisions
+
+Good news is that you dont need to add anyone certain perms to access the command anyone can use the command!
+
+I hope you enjoy this script and MAKE SURE TO FOLLOW THE INSTRUCTIONS AND RULES
+thanks for downloading,
+Lanes Developing
